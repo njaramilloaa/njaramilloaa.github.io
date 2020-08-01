@@ -1,0 +1,11 @@
+/* Selecciona todos los encabezamientos <h2> */
+h2 {
+    color: rgb(207, 46, 140)0);
+    font-size: 20px;
+    font-family: arial;
+}
+
+/* Selecciona todos los párrafos */
+p {
+    color: darkgray;
+}
